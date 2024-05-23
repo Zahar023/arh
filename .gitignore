@@ -1,0 +1,11 @@
+*.o
+*.a
+*.d
+.vscode
+console
+test_comp
+test_term
+test_bigchars
+test_readkey
+*.bin
+
